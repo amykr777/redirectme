@@ -24,7 +24,8 @@ $ python3 redirectme.py -h
 
 ## Usage:
 ```
-$ sudo bash allinone.sh subs.txt
+$ python3 redirectme.py -u "http://testphp.vulnweb.com/redir.php?r=FUZZ" -p payloads.txt --keyword FUZZ
+$ python3 redirectme.py -l urls.txt -p payloads.txt --keyword FUZZ
 ```
 <p align="center">
   <img src="https://1.bp.blogspot.com/-xqpWJ4RAnGo/X4VJTY_B2WI/AAAAAAAADWo/lQ6BKvQL2RUmIGj4oH7adxeX53vQAB_nQCLcBGAsYHQ/s1350/asset-run.png" alt="Run Program" height="475" width="800">
