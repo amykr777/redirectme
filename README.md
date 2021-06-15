@@ -8,6 +8,7 @@
 - Takes a url or list of urls and fuzzes them for Open redirect issues.
 - Fast AF.
 - Custom URL's and Payloads. 
+- You can add more payloads in payloads.txt.
 - That's all nothing much.
 
 ## Installation:
