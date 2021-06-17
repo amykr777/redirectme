@@ -1,6 +1,5 @@
 //example.com@google.com/%2f..
 ///google.com/%2f..
-g
 ///example.com@google.com/%2f..
 ////google.com/%2f..
 https://google.com/%2f..
